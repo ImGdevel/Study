@@ -7,6 +7,7 @@
 - [Jackson-문제와-해결](./Java/Jackson-문제와-해결.md)
 - [박싱과-언박싱](./Java/박싱과-언박싱.md)
 - [클래스-로딩](./Java/클래스-로딩.md)
+- [가비지-컬렉션](./Java/가비지-컬렉션.md)
 
 ## Database
 
