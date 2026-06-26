@@ -2,7 +2,7 @@
 
 (Study 저장소에서 마이그레이션된 INDEX. 각 노트의 실제 위치는 TIL 레거시 도메인 폴더이며, 이 표는 빠른 탐색용 매핑이다.)
 
-마지막 갱신: 2026-06-26 (webflux 도메인 추가, 누락된 algorithm/architecture/browser/concurrency/infra/java/oop/resilience/spring-aop 도메인 보강)
+마지막 갱신: 2026-06-26 (Java 박싱과-언박싱 신규 세션/노트 추가)
 
 ## Topics
 
@@ -111,6 +111,7 @@
 | 알고리즘 | [퀵-정렬](알고리즘/퀵-정렬.md) | 2026-06-25 |
 | Java | [Jackson-JSON-처리](Java/Jackson-JSON-처리.md) | 2026-06-25 |
 | Java | [Jackson-문제와-해결](Java/Jackson-문제와-해결.md) | 2026-06-25 |
+| Java | [박싱과-언박싱](Java/박싱과-언박싱.md) | 2026-06-26 |
 | Spring AOP | [Spring-AOP-Pointcut-Advice-Advisor](Spring%20AOP/Spring-AOP-Pointcut-Advice-Advisor.md) | 2026-06-25 |
 | 비동기 | [비동기-전략](비동기/비동기-전략.md) | 2026-06-25 |
 | 비동기 | [쓰레드-풀-관리-전략](비동기/쓰레드-풀-관리-전략.md) | 2026-06-25 |
@@ -151,3 +152,4 @@
 | 2026-06-25 | TIL 자바스크립트 폴더 5개 노트 마이그레이션 | 별도 세션 노트 없음 — 기존 TIL 내용을 템플릿 형식으로 옮기는 작업, 신규 학습 대화 아님 |
 | 2026-06-25 | TIL 브라우저/Infra/아키텍처/알고리즘/Java/Spring AOP/비동기/서킷브레이커 폴더 마이그레이션 | 별도 세션 노트 없음 — 기존 TIL 내용을 템플릿 형식으로 옮기는 작업, 신규 학습 대화 아님 |
 | 2026-06-26 | TIL Spring Webflux 폴더 15개 노트 마이그레이션 | 별도 세션 노트 없음 — 기존 TIL 내용을 템플릿 형식으로 옮기는 작업, 신규 학습 대화 아님 |
+| 2026-06-26 | 박싱과 언박싱 | [세션](sessions/2026-06-26_박싱과-언박싱.md) |
