@@ -2,7 +2,7 @@
 
 > 태그: `#network` `#was` `#tomcat` `#servlet` `#spring`<br>
 > 작성일: 2026-06-23<br>
-> 최종 수정일: 2026-06-23
+> 최종 수정일: 2026-06-26
 
 ## 정의
 
@@ -265,3 +265,4 @@ public List<User> getUsers() {
 
 - [리버스-프록시](리버스-프록시.md)
 - [웹-요청-흐름](웹-요청-흐름.md)
+- [WAS-vs-WebServer](WAS-vs-WebServer.md) — WAS/웹서버 구분 기준, 동시성 모델 차이 심화
