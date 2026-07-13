@@ -2,7 +2,7 @@
 
 (Study 저장소에서 마이그레이션된 INDEX. 각 노트의 실제 위치는 TIL 레거시 도메인 폴더이며, 이 표는 빠른 탐색용 매핑이다.)
 
-마지막 갱신: 2026-06-27 (Java JDK-버전별-주요-변경사항 신규 세션/노트 추가)
+마지막 갱신: 2026-07-13 (Kotlin 전반 가이드 신규)
 
 ## Topics
 
@@ -116,6 +116,7 @@
 | Java | [클래스-로딩](Java/클래스-로딩.md) | 2026-06-26 |
 | Java | [가비지-컬렉션](Java/가비지-컬렉션.md) | 2026-06-26 |
 | Java | [JDK-버전별-주요-변경사항](Java/JDK-버전별-주요-변경사항.md) | 2026-06-27 |
+| Kotlin | [Kotlin-전반-가이드](Kotlin/Kotlin-전반-가이드.md) | 2026-07-13 |
 | Spring AOP | [Spring-AOP-Pointcut-Advice-Advisor](Spring%20AOP/Spring-AOP-Pointcut-Advice-Advisor.md) | 2026-06-25 |
 | 비동기 | [비동기-전략](비동기/비동기-전략.md) | 2026-06-25 |
 | 비동기 | [쓰레드-풀-관리-전략](비동기/쓰레드-풀-관리-전략.md) | 2026-06-25 |
